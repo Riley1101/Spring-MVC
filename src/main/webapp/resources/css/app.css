@@ -1,0 +1,13 @@
+.max-w-max{
+    width:max-content;
+}
+
+.row {
+    display:flex;
+    flex-direction:row;
+    gap:1em;
+}
+
+.small-container{
+    width: 350px !important;
+}
